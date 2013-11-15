@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Campolide Station", "Transpor": "Train", "Distance": 762.0, "Disc": "Sintra, Azambuja" }, "geometry": { "type": "Point", "coordinates": [ -9.167999625205994, 38.732271947687927 ] } },
+{ "type": "Feature", "properties": { "Name": "Campolide", "Transpor": "Bus", "Distance": 155.0, "Disc": "202" }, "geometry": { "type": "Point", "coordinates": [ -9.162447452545166, 38.732286594014276 ] } },
+{ "type": "Feature", "properties": { "Name": "S. Sebastião red", "Transpor": "Metro", "Distance": 562.0, "Disc": "red line" }, "geometry": { "type": "Point", "coordinates": [ -9.15456175804138, 38.734548369230467 ] } },
+{ "type": "Feature", "properties": { "Name": "S. Sebastião blue", "Transpor": "Metro", "Distance": 562.0, "Disc": "blue line" }, "geometry": { "type": "Point", "coordinates": [ -9.154524207115173, 38.734544184698613 ] } },
+{ "type": "Feature", "properties": { "Name": "Campolide", "Transpor": "bus", "Distance": 155.0, "Disc": "758" }, "geometry": { "type": "Point", "coordinates": [ -9.162447452545166, 38.73229287101038 ] } },
+{ "type": "Feature", "properties": { "Name": "Campolide", "Transpor": "bus", "Distance": 155.0, "Disc": "701" }, "geometry": { "type": "Point", "coordinates": [ -9.162442088127136, 38.732276132352908 ] } },
+{ "type": "Feature", "properties": { "Name": "S. Sebastião", "Transpor": "bus", "Distance": 700.0, "Disc": "742" }, "geometry": { "type": "Point", "coordinates": [ -9.15480852127075, 38.73332229090655 ] } },
+{ "type": "Feature", "properties": { "Name": "S. Sebastião", "Transpor": "bus", "Distance": 700.0, "Disc": "713" }, "geometry": { "type": "Point", "coordinates": [ -9.15480852127075, 38.733305552490307 ] } },
+{ "type": "Feature", "properties": { "Name": "S. Sebastião", "Transpor": "bus", "Distance": 650.0, "Disc": "746" }, "geometry": { "type": "Point", "coordinates": [ -9.153499603271484, 38.734039946814008 ] } },
+{ "type": "Feature", "properties": { "Name": "P. de Espanha", "Transpor": "metro", "Distance": 656.0, "Disc": "blue line" }, "geometry": { "type": "Point", "coordinates": [ -9.158413410186768, 38.737676238221212 ] } },
+{ "type": "Feature", "properties": { "Name": "P. de Espanha", "Transpor": "bus", "Distance": 660.0, "Disc": "716" }, "geometry": { "type": "Point", "coordinates": [ -9.158472418785095, 38.737868717992711 ] } },
+{ "type": "Feature", "properties": { "Name": "P. de Espanha", "Transpor": "bus", "Distance": 660.0, "Disc": "726" }, "geometry": { "type": "Point", "coordinates": [ -9.158531427383423, 38.737925206522853 ] } },
+{ "type": "Feature", "properties": { "Name": "P. de Espanha", "Transpor": "bus", "Distance": 660.0, "Disc": "746" }, "geometry": { "type": "Point", "coordinates": [ -9.158509969711302, 38.73791683785452 ] } },
+{ "type": "Feature", "properties": { "Name": "P. de Espanha", "Transpor": "bus", "Distance": 660.0, "Disc": "756" }, "geometry": { "type": "Point", "coordinates": [ -9.158450961112976, 38.737866625824076 ] } },
+{ "type": "Feature", "properties": { "Name": "P. de Espanha", "Transpor": "bus", "Distance": 665.0, "Disc": "Aerobus                                                                                                                                                                                                                                                      \u001a" }, "geometry": { "type": "Point", "coordinates": [ -9.15859580039978, 38.738042367776238 ] } }
+]
+}
